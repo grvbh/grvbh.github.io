@@ -1,3 +1,4 @@
+![](IMG_20181013_092216_211.jpg)
 ## Welcome to my Research World!
 
 Hello Everyone. I am a researcher currently working in Computer Science and Engineering Department under the supervision of Prof. R. Balasubramanian and Prof. N. Sukavanam at Indian Institute of Technology, Roorkee.
