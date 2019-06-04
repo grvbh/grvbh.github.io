@@ -1,7 +1,7 @@
 ![](IMG_20181013_092216_211.jpg)
 ## Welcome to my Research World!
 
-Hello Everyone. I am a researcher currently working in Computer Science and Engineering Department under the supervision of Prof. R. Balasubramanian and Prof. N. Sukavanam at Indian Institute of Technology, Roorkee.
+Hello Everyone. I am a researcher currently working in Computer Science and Engineering Department under the supervision of [Prof. R. Balasubramanian](https://balarsgroup.github.io/) and [Prof. N. Sukavanam](https://www.iitr.ac.in/departments/MA/pages/People+Faculty+Sukavanam_N_.html) at Indian Institute of Technology, Roorkee.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
