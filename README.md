@@ -7,4 +7,6 @@ Hello Everyone. I am a researcher currently working in Computer Science and Engi
 2. Artificial Neural Networks
 3. Computational Geometry
 4. Robot Control
+5. Artificial Intelligence
+
 
