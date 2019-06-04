@@ -1,6 +1,6 @@
 ## Welcome to my Research World!
 
-You can use the [editor on GitHub](https://github.com/grvbh/grvbh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello Everyone. I am a researcher currently working in Computer Science and Engineering Department under the supervision of Prof. R. Balasubramanian and Prof. N. Sukavanam at Indian Institute of Technology, Roorkee.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
