@@ -11,8 +11,7 @@ Hello Everyone. I am a researcher currently working in Computer Science and Engi
 5. Artificial Intelligence
 
 ### Contact Details
-Email: grv09bh@gmail.com, gbhardwaj@cs.iitr.ac.in
-Mobile No: 9654256896
+Email: grv09bh@gmail.com, gbhardwaj@cs.iitr.ac.in                                                                                    Mobile No: 9654256896
 
 ### Research Publications
 1. Gaurav Bhardwaj, N. Sukavanam, Ruchi Panwar and R. Balasubramanian, "An Unsupervised Neural Network Approach for Inverse Kinematics
