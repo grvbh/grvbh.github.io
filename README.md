@@ -1,5 +1,5 @@
 #### Gaurav Bhardwaj
-![](IMG_20181013_092216_211.jpg)
+![](photo.jpg)
 ## Welcome to my Research World!
 
 Hello Everyone. I am a researcher currently working in Computer Science and Engineering Department under the supervision of [Prof. R. Balasubramanian](https://balarsgroup.github.io/) and [Prof. N. Sukavanam](https://www.iitr.ac.in/departments/MA/pages/People+Faculty+Sukavanam_N_.html) at Indian Institute of Technology, Roorkee.
